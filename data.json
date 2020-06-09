@@ -4,45 +4,45 @@
 			"id": 0,
 			"project_name": "Random Quote Generator",
 			"description": "Generates a random quote from a preset array of possibilities.",
-			"technologies": "HTML/CSS, JavaScript",
+			"technologies": ["JavaScript", "HTML", "CSS"],
 			"live_link": "https://github.com/paulreyneveld/THProj1",
 			"github_link": "https://github.com/paulreyneveld/THProj1",
 			"img_urls": "Some links"
 		},
 		{
 			"id": 1,
-			"project_name": "Random Quote Generator",
-			"description": "Generates a random quote from a preset array of possibilities.",
-			"technologies": "HTML/CSS, JavaScript",
-			"live_link": "https://github.com/paulreyneveld/THProj1",
-			"github_link": "https://github.com/paulreyneveld/THProj1",
+			"project_name": "List Filtering and Pagination",
+			"description": "Paginates a list of users and allows for filtering based on search parameters.",
+			"technologies": ["JavaScript", "HTML", "CSS"], 
+			"live_link": "https://github.com/paulreyneveld/THProj2",
+			"github_link": "https://github.com/paulreyneveld/THProj2",
 			"img_urls": "Some links"
 		},
 		{
 			"id": 2,
-			"project_name": "Random Quote Generator",
-			"description": "Generates a random quote from a preset array of possibilities.",
-			"technologies": "HTML/CSS, JavaScript",
+			"project_name": "Form Validator",
+			"description": "This project uses JavaScript to validate a form for submission.",
+			"technologies":["JavaScript", "HTML", "CSS"],
 			"live_link": "https://github.com/paulreyneveld/THProj1",
-			"github_link": "https://github.com/paulreyneveld/THProj1",
+			"github_link": "https://github.com/paulreyneveld/THProj3",
 			"img_urls": "Some links"
 		},
 		{
 			"id": 3,
-			"project_name": "Random Quote Generator",
-			"description": "Generates a random quote from a preset array of possibilities.",
-			"technologies": "HTML/CSS, JavaScript",
+			"project_name": "Phrase Guessing Game",
+			"description": "A JS game where the user guesses a phrase.",
+			"technologies":["JavaScript", "HTML", "CSS"],
 			"live_link": "https://github.com/paulreyneveld/THProj1",
-			"github_link": "https://github.com/paulreyneveld/THProj1",
+			"github_link": "https://github.com/paulreyneveld/THProj4",
 			"img_urls": "Some links"
 		},
 		{
 			"id": 4,
-			"project_name": "Random Quote Generator",
-			"description": "Generates a random quote from a preset array of possibilities.",
-			"technologies": "HTML/CSS, JavaScript",
+			"project_name": "API User Request",
+			"description": "Uses the Random User API to generate a page of fictional users", 
+			"technologies": ["JavaScript", "HTML", "CSS"],
 			"live_link": "https://github.com/paulreyneveld/THProj1",
-			"github_link": "https://github.com/paulreyneveld/THProj1",
+			"github_link": "https://github.com/paulreyneveld/THProj5",
 			"img_urls": "Some links"
 		}
 	]
