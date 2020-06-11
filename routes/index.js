@@ -12,7 +12,7 @@ router.get('/about', (req, res) => {
         res.render('about');
 });
 
-router.get('/:id', (req, res) => {
+router.get('/projects/:id', (req, res) => {
 	const id = req.params.id;
 	res.locals.project_name =  data.projects[id].project_name;
 	res.locals.description = data.projects[id].description;
