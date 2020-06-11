@@ -18,6 +18,7 @@ router.get('/projects/:id', (req, res) => {
 	res.locals.description = data.projects[id].description;
 	res.locals.technologies = data.projects[id].technologies;
 	res.locals.github_link = data.projects[id].github_link;
+	res.locals.img_url_landscape = '../' + data.projects[id].img_urls[1];
 	const idObj = { id };
 		
 	res.render('project', idObj);

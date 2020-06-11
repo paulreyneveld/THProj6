@@ -7,7 +7,7 @@
 			"technologies": ["JavaScript", "HTML", "CSS"],
 			"live_link": "https://github.com/paulreyneveld/THProj1",
 			"github_link": "https://github.com/paulreyneveld/THProj1",
-			"img_urls": ["static/images/thp1-square.png"]
+			"img_urls": ["static/images/thp1-square.png", "static/images/thp1-landscape.png"]
 		},
 		{
 			"id": 1,
@@ -16,7 +16,7 @@
 			"technologies": ["JavaScript", "HTML", "CSS"], 
 			"live_link": "https://github.com/paulreyneveld/THProj2",
 			"github_link": "https://github.com/paulreyneveld/THProj2",
-			"img_urls": ["static/images/thp2-square.png"]
+			"img_urls": ["static/images/thp2-square.png", "static/images/thp2-landscape.png"]
 		},
 		{
 			"id": 2,
@@ -25,7 +25,7 @@
 			"technologies":["JavaScript", "HTML", "CSS"],
 			"live_link": "https://github.com/paulreyneveld/THProj1",
 			"github_link": "https://github.com/paulreyneveld/THProj3",
-			"img_urls": ["static/images/thp3-square.png"]
+			"img_urls": ["static/images/thp3-square.png", "static/images/thp3-landscape.png"]
 		},
 		{
 			"id": 3,
@@ -34,7 +34,7 @@
 			"technologies":["JavaScript", "HTML", "CSS"],
 			"live_link": "https://github.com/paulreyneveld/THProj1",
 			"github_link": "https://github.com/paulreyneveld/THProj4",
-			"img_urls": ["static/images/thp4-square.png"]
+			"img_urls": ["static/images/thp4-square.png", "static/images/thp4-landscape.png"]
 		},
 		{
 			"id": 4,
@@ -43,7 +43,7 @@
 			"technologies": ["JavaScript", "HTML", "CSS"],
 			"live_link": "https://github.com/paulreyneveld/THProj1",
 			"github_link": "https://github.com/paulreyneveld/THProj5",
-			"img_urls": ["static/images/thp5-square.png"]
+			"img_urls": ["static/images/thp5-square.png", "static/images/thp5-landscape.png"]
 		}
 	]
 }
