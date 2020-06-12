@@ -1,0 +1,8 @@
+extends layout
+
+block content 
+ article.grid-container.portfolio-intro
+  div
+   h1= ` Sorry, ${error.message} - Status: ${error.status}`
+   p= `${error.stack}`
+   a(href='/') Home
