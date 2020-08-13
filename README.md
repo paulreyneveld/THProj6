@@ -1,7 +1,8 @@
-This project is meant to exceed the requirements for Treehouse Project Six. 
+# TH Project 6
 
-I've made three CSS changes per the rubric, and it's worth mentioning that I'm not a designer. 
+This project was built to satisfy the requirements of the sixth Treehouse FSJS Tech Degree project. 
 
-- Changed the font-family for h1, h2, h3, h4, h5 and p to Arial, Helvetica, sans-serif (style.css line 3).
-- Changed the sidebar background color to #140936 (style.css line 61).
-- Changed the link color on the sidebar to #c5c5c5 so it would better standout (style.css line 74).
+This project was built to be a mock portfolio site. It was my first foray into Node/Express and relies on the PUG templating engine
+to dynamically display the site's frontend. 
+ 
+
